@@ -1,5 +1,5 @@
 {
-    "users" :[
+  "users" :[
     {"id" : 1,"name": "Micah", "lastname" : "Sharp"},
     {"id" : 2,"name": "Izabella", "lastname" : "Martin"},
     {"id" : 3,"name": "Noel","lastname" : "Petersen"},
@@ -10,6 +10,5 @@
     {"id" : 8,"name": "Finnegan","lastname" : "Garner"},
     {"id" : 9,"name": "Maxim","lastname" : "Carson"},
     {"id" : 10,"name": "Jasiah","lastname" : "Bass"}
-    ]
+  ]
 }
-
